@@ -13,3 +13,8 @@ img
     max-width: 50px;
     height: auto;
 }
+
+h1
+{
+    filter:blur(6px);
+}
