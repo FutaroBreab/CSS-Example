@@ -14,6 +14,11 @@ img
     height: auto;
 }
 
+h2
+{
+    background-image: url(images/dusk\ landscape.png);
+    filter: blur(3px);
+}
 p
 {
     background-image: url("https://assets.bonappetit.com/photos/5c62e4a3e81bbf522a9579ce/1:1/w_2240,c_limit/milk-bread.jpg");
