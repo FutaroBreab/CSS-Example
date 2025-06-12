@@ -7,3 +7,9 @@ html
 {
     background-color: beige;
 }
+img 
+{
+
+    max-width: 50%;
+    height: auto;
+}
